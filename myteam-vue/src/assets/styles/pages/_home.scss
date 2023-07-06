@@ -2,15 +2,15 @@
     // display: grid;
     grid-template-rows: 500px 684px 745px 200px;
 .cmp1{
-    background-color:$clr6;
+    background-color:$clr8;
     color: white;
 }
 .cmp2{
-    background-color: blue;
+    background-color: $clr6;
     color: white;
 }
 .cmp3{
-    background-color: green;
+    background-color: $clr8;
     color: white;
 }
 .cmp4{
