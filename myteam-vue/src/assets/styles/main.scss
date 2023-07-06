@@ -1,0 +1,14 @@
+//setup
+@import "setup/vars";
+
+//basics
+@import "basics/helpers";
+@import "basics/base";
+@import "basics/layout";
+
+//cmps
+@import "cmps/app-header";
+@import "cmps/app-footer";
+
+//pages
+@import "pages/home";

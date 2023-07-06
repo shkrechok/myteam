@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+    height: 100vh;
+
+    #app {
+        .app-container {
+            height: 100vh;
+            grid-template-rows: 12.5rem 1fr 12.25rem;
+        }
+    }
+}

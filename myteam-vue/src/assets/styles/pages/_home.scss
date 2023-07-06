@@ -1,0 +1,20 @@
+.home {
+    // display: grid;
+    grid-template-rows: 500px 684px 745px 200px;
+.cmp1{
+    background-color:$clr6;
+    color: white;
+}
+.cmp2{
+    background-color: blue;
+    color: white;
+}
+.cmp3{
+    background-color: green;
+    color: white;
+}
+.cmp4{
+    background-color: yellow;
+    color: black;
+}
+}
